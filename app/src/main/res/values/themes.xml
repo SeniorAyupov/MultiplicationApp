@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Базовая тема приложения -->
+    <style name="Theme.MultiplicationApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Настройка цветов -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+</resources>
